@@ -1,0 +1,112 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Software Developer",
+      "company": "Tech Solutions Inc",
+      "location": "New York, NY",
+      "description": "Responsible for developing and maintaining software applications.",
+      "typeOfJob": "technical",
+      "requirements": ["Bachelor's degree in Computer Science", "2+ years of experience in software development"]
+    },
+    {
+      "id": 2,
+      "title": "Project Manager",
+      "company": "Business Corp",
+      "location": "Seattle, WA",
+      "description": "Overseeing project development, coordinating teams.",
+      "typeOfJob": "technical",
+      "requirements": ["Strong organizational skills", "Experience in project management"]
+    },
+    {
+      "id": 3,
+      "title": "Network Engineer",
+      "company": "NetTech",
+      "location": "San Francisco, CA",
+      "description": "Design and implement computer and information networks.",
+      "typeOfJob": "technical",
+      "requirements": ["Bachelor's degree in Computer Engineering", "3+ years of network engineering experience"]
+    },
+    {
+      "id": 4,
+      "title": "Operations Manager",
+      "company": "Logistics Inc",
+      "location": "Dallas, TX",
+      "description": "Oversee organizational operations and efficient workflow.",
+      "typeOfJob": "operational",
+      "requirements": ["Proven experience in operations management", "Strong leadership skills"]
+    },
+    {
+      "id": 5,
+      "title": "HR Coordinator",
+      "company": "People First",
+      "location": "Miami, FL",
+      "description": "Manage recruitment processes and employee relations.",
+      "typeOfJob": "general",
+      "requirements": ["Bachelor's degree in Human Resources", "Excellent communication skills"]
+    },
+    {
+      "id": 6,
+      "title": "Data Analyst",
+      "company": "DataWise",
+      "location": "Boston, MA",
+      "description": "Analyze data trends and provide actionable insights.",
+      "typeOfJob": "technical",
+      "requirements": ["Bachelor's degree in Statistics or related field", "Experience with data visualization tools"]
+    },
+    {
+      "id": 7,
+      "title": "Marketing Specialist",
+      "company": "BrandBoost",
+      "location": "Chicago, IL",
+      "description": "Develop marketing strategies and content.",
+      "typeOfJob": "general",
+      "requirements": ["Degree in Marketing", "Creativity and experience in marketing campaigns"]
+    },
+    {
+      "id": 8,
+      "title": "IT Support Technician",
+      "company": "TechAid",
+      "location": "Austin, TX",
+      "description": "Provide technical support and troubleshooting services.",
+      "typeOfJob": "technical",
+      "requirements": ["Associate's degree in IT or related field", "Strong problem-solving skills"]
+    },
+    {
+      "id": 9,
+      "title": "Quality Assurance Engineer",
+      "company": "QualityTech",
+      "location": "Denver, CO",
+      "description": "Ensure software quality through testing and code reviews.",
+      "typeOfJob": "technical",
+      "requirements": ["Bachelor's degree in Computer Science", "Experience in QA methodologies"]
+    },
+    {
+      "id": 10,
+      "title": "Supply Chain Analyst",
+      "company": "SupplyNet",
+      "location": "Atlanta, GA",
+      "description": "Analyze and improve supply chain operations.",
+      "typeOfJob": "operational",
+      "requirements": ["Bachelor's degree in Supply Chain Management", "Analytical and problem-solving skills"]
+    },
+    {
+      "id": 11,
+      "title": "Customer Service Representative",
+      "company": "ServicePro",
+      "location": "Phoenix, AZ",
+      "description": "Handle customer inquiries and provide solutions.",
+      "typeOfJob": "general",
+      "requirements": ["High school diploma", "Excellent communication and interpersonal skills"]
+    },
+    {
+      "id": 12,
+      "title": "Financial Analyst",
+      "company": "FinancePlus",
+      "location": "New York, NY",
+      "description": "Analyze financial data and trends to advise on business decisions.",
+      "typeOfJob": "management",
+      "requirements": ["Bachelor's degree in Finance", "Strong analytical skills"]
+    }
+   ]
+ }
