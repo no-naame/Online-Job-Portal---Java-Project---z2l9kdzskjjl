@@ -38,7 +38,7 @@
 	                <option value="all">All Jobs</option>
 	                <option value="technical">Technical Jobs</option>
 	                <option value="management">Management Jobs</option>
-	                <option value="operations">Operational Jobs</option>
+	                <option value="operational">Operational Jobs</option>
 	            </select>
 	            <button type="submit">Search</button>
             </form>
